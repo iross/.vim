@@ -49,6 +49,3 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround
-[submodule "bundle/vim-mypy"]
-	path = bundle/vim-mypy
-	url = https://github.com/integralist/vim-mypy
